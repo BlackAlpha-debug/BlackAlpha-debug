@@ -11,8 +11,8 @@
 
 
 <p align="center">
-  🎓 Final-year <b>BS Artificial Intelligence</b> @ <b>UMT Lahore</b> · Majors: Computer Vision & NLP · 75% Merit Scholar<br>
-  🏆 <b>AI Hackathon Winner</b> · 📍 Lahore, Pakistan
+  🎓 Final-year <b>BS Artificial Intelligence</b> @ <b>UMT Lahore</b> · Majors: Computer Vision & NLP ·<br>
+  🏆 <b>AI Hackathon Winner</b> ·
 </p>
 
 
