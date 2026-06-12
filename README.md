@@ -112,31 +112,12 @@
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=BlackAlpha-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=FF7B72&currStreakLabel=79C0FF"/>
-
   <br><br>
-
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackAlpha-debug/BlackAlpha-debug/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlackAlpha-debug/BlackAlpha-debug/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BlackAlpha-debug/BlackAlpha-debug/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-
-  <br><br>
-
-  <img src="https://ghchart.rshah.org/BlackAlpha-debug" alt="contribution calendar" width="95%"/>
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=BlackAlpha-debug&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlackAlpha-debug&style=for-the-badge&color=blueviolet" alt="profile views"/>
 </p>
 
-<p align="center"><i>⚡ "Ship fast, verify everything." — building AI that actually works.</i></p>
+<p align="center"><i "Ship fast, verify everything." — building AI that actually works.</i></p>
