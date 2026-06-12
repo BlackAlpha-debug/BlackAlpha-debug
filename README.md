@@ -59,7 +59,7 @@
 | 🎓 **EduVerse** | AI-powered virtual university — 6 role-based portals, 100+ React components, JWT auth, full dark/light theming | Next.js 16 · React 19 · TS 5 · Tailwind v4 |
 | 🎯 **Facial Recognition Attendance** | Real-time FaceNet embeddings → SVM classifier → auto Excel logging with duplicate-day filtering | OpenCV · DeepFace · TensorFlow |
 | 📄 **AI Resume Builder** | Job description + candidate details → tailored ATS-optimized CV via LLM prompt chain with keyword scoring | LangChain · Claude API · Flask |
-| ✈️ **Ziyarah Travels v3** | Live production travel app — admin portal, WhatsApp + email booking automation ([live](https://ziyarah-travels-v3.vercel.app)) | TypeScript · Vite · Meta WhatsApp API |
+| ✈️ **Ziyarah Travels ** | Live production travel app — admin portal, WhatsApp + email booking automation | TypeScript · Vite · Meta WhatsApp API |
 | 🧠 **Neo4j Graph-Memory Chatbot** | Episodic graph memory (POS, sentiment, WordNet nodes), voice input via ESP32 hardware | AIML · NLTK · Neo4j · ESP32 |
 | 💸 **Smart Expense Tracker** | ML auto-categorization of transactions + Chart.js spend dashboards | scikit-learn · Flask · SQLite |
 | 🌍 **Multilingual Language Detection** | Detects 8+ languages in real time via web UI | TF-IDF · Naive Bayes · Flask |
