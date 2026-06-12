@@ -2,7 +2,7 @@
 <img width="4640" height="924" alt="Gemini_Generated_Image_p9ir9pp9ir9pp9ir" src="https://github.com/user-attachments/assets/9687cd14-b9ee-4a07-8a91-de5901de8510" />
 <p align="center">
   <a href="https://github.com/BlackAlpha-debug">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Vision+%26+NLP+Engineer;TechVerse+AI+Hackathon+%E2%80%94+1st+Place+%F0%9F%8F%86;Vibe+Coding+Expert+%E2%9A%A1;I+ship+AI+products%2C+fast." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Vision+Engineer;NLP+Engineer;I+ship+AI+products%2C." alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
