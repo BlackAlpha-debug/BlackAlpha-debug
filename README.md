@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-  🎓 Final-year <b>BS Artificial Intelligence</b> @ <b>UMT Lahore</b> · Majors: Computer Vision & NLP ·<br>
+  🎓 Final-year <b>BS Artificial Intelligence</b> · Majors: Computer Vision & NLP ·<br>
   🏆 <b>TechVerse AI Hackathon — 1st Place Winner</b> ·
 </p>
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 - 🏆 Won **TechVerse AI Hackathon (1st place)** with a multi-modal **Medical AI Platform** — voice intake → LLM dialogue → automated SOAP clinical notes, dual Patient/Doctor portals
 - 🧠 I build **real-time face recognition**, **medical AI systems**, and **graph-memory chatbots**
@@ -51,11 +51,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏥 **Medical AI Platform** 🏆 | TechVerse-winning dual-portal system — AI voice intake, multilingual chatbot, auto SOAP notes, doctor dashboard with LLM feedback loop | LangChain · Flask · Neo4j · Next.js |
+| 🏥 **Medical AI Platform**  | TechVerse-winning dual-portal system — AI voice intake, multilingual chatbot, auto SOAP notes, doctor dashboard with LLM feedback loop | LangChain · Flask · Neo4j · Next.js |
 | 🎓 **EduVerse** | AI-powered virtual university — 6 role-based portals, 100+ React components, JWT auth, full dark/light theming | Next.js 16 · React 19 · TS 5 · Tailwind v4 |
 | 🎯 **Facial Recognition Attendance** | Real-time FaceNet embeddings → SVM classifier → auto Excel logging with duplicate-day filtering | OpenCV · DeepFace · TensorFlow |
 | 📄 **AI Resume Builder** | Job description + candidate details → tailored ATS-optimized CV via LLM prompt chain with keyword scoring | LangChain · Claude API · Flask |
@@ -65,10 +65,10 @@
 | 🌍 **Multilingual Language Detection** | Detects 8+ languages in real time via web UI | TF-IDF · Naive Bayes · Flask |
 
 <details>
-<summary><b>📦 More projects — click to expand the full archive (30+)</b></summary>
+<summary><b> More projects — click to expand the full archive (30+)</b></summary>
 <br>
 
-**🧿 Computer Vision**
+** Computer Vision**
 
 - **Celebrity Face Recognition + Gender Classification** — dual-head identity & gender classifier · OpenCV · DeepFace
 - **Orthodontic X-ray Classifier** — automates dental X-ray categorization for clinical workflows · TensorFlow · Keras
